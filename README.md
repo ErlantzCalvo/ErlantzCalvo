@@ -1,6 +1,5 @@
 
-![Presentation animation](https://raw.githubusercontent.com/ErlantzCalvo/ErlantzCalvo/main/presentation_nobg.svg)
-
+![Presentation animation](https://raw.githubusercontent.com/ErlantzCalvo/ErlantzCalvo/main/presentation_nobg.svg?sanitize=true)
 <!--
 **ErlantzCalvo/ErlantzCalvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
