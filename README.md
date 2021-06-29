@@ -1,4 +1,5 @@
-
+<div align="center">
+  
 ![Presentation animation](https://raw.githubusercontent.com/ErlantzCalvo/ErlantzCalvo/main/presentation_nobg.svg?sanitize=true)
 <!-- https://neatsoftware.github.io/term-sheets/ -->
 <!--
@@ -15,5 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+  
 ![Erlantz's stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ErlantzCalvo&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ErlantzCalvo&theme=nord_dark)
+  
+</div>
