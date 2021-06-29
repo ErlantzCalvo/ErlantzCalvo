@@ -1,4 +1,5 @@
-### Hi there 👋
+
+![Presentation animation](https://raw.githubusercontent.com/ErlantzCalvo/ErlantzCalvo/main/presentation_nobg.svg)
 
 <!--
 **ErlantzCalvo/ErlantzCalvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Erlantz's stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ErlantzCalvo&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ErlantzCalvo&theme=nord_dark)
