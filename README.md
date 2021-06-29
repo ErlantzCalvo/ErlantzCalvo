@@ -1,6 +1,6 @@
 <div align="center">
   
-![Presentation animation](https://raw.githubusercontent.com/ErlantzCalvo/ErlantzCalvo/main/presentation_nobg.svg?sanitize=true)
+![Presentation animation](https://raw.githubusercontent.com/ErlantzCalvo/ErlantzCalvo/main/presentation_nobg.svg)
 <!-- https://neatsoftware.github.io/term-sheets/ -->
 <!--
 **ErlantzCalvo/ErlantzCalvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
